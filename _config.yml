@@ -1,0 +1,13 @@
+title: "ADAPTIVE VECTOR QUANTIZATION FOR IMPROVED CONTENT PRESERVATION IN MULTILINGUAL VOICE CONVERSION"
+description: "ICASSP 2026 – Demo Page"
+url: "https://icassp2026learnablecb.github.io"
+baseurl: ""   # username.github.io 형식이므로 반드시 비워둠
+
+theme: null
+remote_theme: "poole/hyde"
+
+plugins:
+  - jekyll-remote-theme
+
+markdown: kramdown
+highlighter: rouge
