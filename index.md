@@ -174,19 +174,19 @@ permalink: /
       <td><audio controls src="/assets/audio/sefvc/learn/eng/237_134493_000008_000006_7127_10.0sec_18_c45262ed.wav"></audio></td>
     </tr>
     <tr>
-      <td><audio controls src="/assets/audio/sefvc/eng_source/1089_134686_000009_000000.wav"></audio></td>
-      <td><audio controls src="/assets/audio/sefvc/eng_target/1320_10.0sec_6.wav"></audio></td>
-      <td><audio controls src="/assets/audio/sefvc/kmeans/eng/1089_134686_000009_000000_1320_10.0sec_6_b92e4870.wav"></audio></td>
-      <td><audio controls src="/assets/audio/sefvc/learn/eng/1089_134686_000009_000000_1320_10.0sec_6_b92e4870.wav"></audio></td>
+      <td><audio controls src="/assets/audio/sefvc/eng_source/4970_29095_000012_000000.wav"></audio></td>
+      <td><audio controls src="/assets/audio/sefvc/eng_target/8463_10.0sec_8.wav"></audio></td>
+      <td><audio controls src="/assets/audio/sefvc/kmeans/eng/4970_29095_000012_000000_8463_10.0sec_8_682ebdb1.wav"></audio></td>
+      <td><audio controls src="/assets/audio/sefvc/learn/eng/4970_29095_000012_000000_8463_10.0sec_8_682ebdb1.wav"></audio></td>
     </tr>
 
     <!-- Korean Samples -->
     <tr>
       <td rowspan="3">Korean</td>
-      <td><audio controls src="/assets/audio/sefvc/kor_source/F3_FairyTale2_701.wav"></audio></td>
-      <td><audio controls src="/assets/audio/sefvc/kor_target/F4_10.0sec_7.wav"></audio></td>
-      <td><audio controls src="/assets/audio/sefvc/kmeans/kor/F3_FairyTale2_701_F4_10.0sec_7_1a138fde.wav"></audio></td>
-      <td><audio controls src="/assets/audio/sefvc/learn/kor/F3_FairyTale2_701_F4_10.0sec_7_1a138fde.wav"></audio></td>
+      <td><audio controls src="/assets/audio/sefvc/kor_source/F2_SelfHelp1_1627.wav"></audio></td>
+      <td><audio controls src="/assets/audio/sefvc/kor_target/M1_10.0sec_16.wav"></audio></td>
+      <td><audio controls src="/assets/audio/sefvc/kmeans/kor/F2_SelfHelp1_1627_M1_10.0sec_16_37849a2f.wav"></audio></td>
+      <td><audio controls src="/assets/audio/sefvc/learn/kor/F2_SelfHelp1_1627_M1_10.0sec_16_37849a2f.wav"></audio></td>
     </tr>
     <tr>
       <td><audio controls src="/assets/audio/sefvc/kor_source/F1_SelfHelp1_1420.wav"></audio></td>
@@ -195,10 +195,10 @@ permalink: /
       <td><audio controls src="/assets/audio/sefvc/learn/kor/F1_SelfHelp1_1420_M5_10.0sec_13_73bb8f38.wav"></audio></td>
     </tr>
     <tr>
-      <td><audio controls src="/assets/audio/sefvc/kor_source/F1_Novel1_1602.wav"></audio></td>
-      <td><audio controls src="/assets/audio/sefvc/kor_target/M4_10.0sec_15.wav"></audio></td>
-      <td><audio controls src="/assets/audio/sefvc/kmeans/kor/F1_Novel1_1602_M4_10.0sec_15_52ad4337.wav"></audio></td>
-      <td><audio controls src="/assets/audio/sefvc/learn/kor/F1_Novel1_1602_M4_10.0sec_15_52ad4337.wav"></audio></td>
+      <td><audio controls src="/assets/audio/sefvc/kor_source/F1_SelfHelp2_1529.wav"></audio></td>
+      <td><audio controls src="/assets/audio/sefvc/kor_target/M5_10.0sec_14.wav"></audio></td>
+      <td><audio controls src="/assets/audio/sefvc/kmeans/kor/F1_SelfHelp2_1529_M5_10.0sec_14_c0cf77df.wav"></audio></td>
+      <td><audio controls src="/assets/audio/sefvc/learn/kor/F1_SelfHelp2_1529_M5_10.0sec_14_c0cf77df.wav"></audio></td>
     </tr>
   </tbody>
 </table>
